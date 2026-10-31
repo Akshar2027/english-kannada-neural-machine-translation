@@ -1,0 +1,5 @@
+Model,Architecture,Parameters,BLEU,chrF,Training Time (min),Inference Time (sec),Status
+Basic Transformer,Encoder-decoder,13738624,7.8193,30.5407,22.37,70.25,Completed
+mT5-small,Encoder-decoder,300176768,1.2137,15.1282,5.06,105.8,Completed
+LLaMA 3.2 1B Instruct,Decoder-only,1230000000,,,,,Not evaluated - gated access unavailable
+Gemma 3 1B IT,Decoder-only,1000000000,,,,,Not evaluated - gated access unavailable

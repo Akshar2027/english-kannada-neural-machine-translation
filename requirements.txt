@@ -1,0 +1,9 @@
+torch
+transformers
+sentencepiece
+sacrebleu
+pandas
+numpy
+matplotlib
+accelerate
+bitsandbytes
